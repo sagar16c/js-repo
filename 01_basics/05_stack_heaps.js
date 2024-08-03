@@ -1,7 +1,7 @@
 //stack (primitive) heaps (non-primitive)
 // in stack a copy of an item is given so the actual value doesn't change
 // in heap variables refer to a single point , a reference is given so if one variable is changed it changes both the variables 
-
+//reference in heap means, whatever changes we do it happens in the main/original value
 let channelName = "sagar"
 
 let anotherName = channelName
